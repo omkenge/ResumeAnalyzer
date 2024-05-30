@@ -4,7 +4,6 @@ from JobRecommendation.side_logo import add_logo
 from JobRecommendation.sidebar import sidebar
 import altair as alt
 
-from streamlit_extras.switch_page_button import switch_page
 from JobRecommendation.lottie_animation import load_lottieurl
 # EDA Pkgs
 import pandas as pd 
